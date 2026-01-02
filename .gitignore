@@ -1,4 +1,10 @@
 DebugConfig/
 Listings/
 Objects/
+*.base@*
+*.dbgconf
+*.scvd
+*.ini
+*.cdb
+RTE/
 
