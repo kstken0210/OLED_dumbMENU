@@ -42,3 +42,6 @@ Video demonstration of the complete menu system
 
 **Other**
 Gimbal control system(doing)
+
+**Good picture**
+![](https://i.pinimg.com/1200x/08/fd/b3/08fdb3b3a2a3d9e231460791c74f079e.jpg)
